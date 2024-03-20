@@ -150,6 +150,7 @@ You can use the contracts in the "/contracts/base" directory as base contracts f
 
 A complete walkthrough on how to develop these contracts is provided in the [official Polymer documentation](https://docs.polymerlabs.org/docs/build/ibc-solidity/).
 
+.
 ## 🕹️ Interaction with the contracts
 
 When the contracts are ready, you can go ahead and interact with the contracts through scripts. There is a Justfile to for the most common commands, with the underlying scripts in the /scripts folder.
