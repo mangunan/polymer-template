@@ -199,6 +199,7 @@ module.exports = {
 };
 ```
 
+.
 #### Finally: deploy
 
 Then run:
