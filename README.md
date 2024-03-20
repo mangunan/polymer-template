@@ -26,6 +26,7 @@ You'll need some API keys from third party's:
 
 Some basic knowledge of all of these tools is also required, although the details are abstracted away for basic usage.
 
+.
 ## 🧰 Install dependencies
 
 To compile your contracts and start testing, make sure that you have all dependencies installed.
