@@ -82,6 +82,7 @@ The account associated with your private key must have both Base Sepolia and Opt
 
 The project comes with a built-in dummy application called x-counter (which syncrhonizes a counter across two contracts on remote chains). You can find the contracts in the `/contracts` directory as XCounterUC.sol and XCounter.sol (the former when using the universal channel, the latter when creating a custom IBC channel).
 
+.
 ### Universal channels
 
 The easiest way to get onboarded is to use Universal channels. A universal channel is an IBC channel where the port is owned by Polymer's Universal channel middleware contracts on each chain.
