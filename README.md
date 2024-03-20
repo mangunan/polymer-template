@@ -74,6 +74,7 @@ The account associated with your private key must have both Base Sepolia and Opt
 - [Optimism Sepolia Faucet](https://www.alchemy.com/faucets/optimism-sepolia)
 - [Base Sepolia Faucet](https://www.alchemy.com/faucets/base-sepolia)
 
+.
 ## 🏃🏽🏃🏻‍♀️ Quickstart
 
 The project comes with a built-in dummy application called x-counter (which syncrhonizes a counter across two contracts on remote chains). You can find the contracts in the `/contracts` directory as XCounterUC.sol and XCounter.sol (the former when using the universal channel, the latter when creating a custom IBC channel).
