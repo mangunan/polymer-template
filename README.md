@@ -184,6 +184,7 @@ to deploy _MyContract_ artefact to the Optimism (Sepolia) chain.
 
 > **IMPORTANT**: This is where you set if your contract uses universal or custom channels. Make sure this corresponds to the base contract you've inherited from when developing your application (UniversalChanIbcApp or CustomChanIbcApp).
 
+.
 #### Constructor arguments
 
 By default any application inheriting a base IBC application contract will need a dispatcher or universal channel handler address passed into the constructor. Obviously you might have other constructor arguments you may want to add. To still make use of the `just deploy source destination` recipe, add your arguments to the arguments.js file
