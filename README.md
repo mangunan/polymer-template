@@ -66,6 +66,7 @@ CONFIG_PATH='config/alt-config.json'
 ```
 to use a different config file.
 
+.
 ### Obtaining testnet ETH
 
 The account associated with your private key must have both Base Sepolia and Optimism Sepolia ETH. To obtain the testnet ETH visit:
